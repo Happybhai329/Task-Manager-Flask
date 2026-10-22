@@ -205,4 +205,10 @@ This project is open source and available under the [MIT License](LICENSE).
 - 💼 **LinkedIn:** [Happy Bhasin](https://www.linkedin.com/in/happy-bhasin-908191267)  
 - 📧 **Email:** [bhasinhappy0506@gmail.com](mailto:bhasinhappy0506@gmail.com)  
 - 📱 **Phone:** +91 9220553665  
-- 📍 **Location:** India (Open to Remote & Global Relocation)
+- 📍 **Location:** India (Open to Remote & Global Relocation)  
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
